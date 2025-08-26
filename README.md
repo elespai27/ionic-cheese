@@ -73,6 +73,7 @@ TODO Verónica
 - ✅ Refactor login using FormGroup, polish registros styles 
 - ✅ Refactor style(forms): unify layout and styles for login and registration forms 
 - ✅ feat: integrate Firebase Authentication and Firestore user registration 🌞
+- ✅ Go a little crazy with the security of the APIKey to make it visible again and manage security from Firebase 🤪
 - [ ] Create and display the list of cheeses  
 - [ ] Review and clean up unused code or components  
 - [ ] Test all features on multiple devices  
